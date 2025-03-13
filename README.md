@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**JuanvSequeira/JuanvSequeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Olá, Eu sou o Juan Victor ! 👋
+Bem vindos ao meu portfólio ! Aqui eu vou te apresentar algumas informações sobre mim ,meus trabalhos e projetos .
 
-Here are some ideas to get you started:
+# Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Juan Victor Sequeira , eu estudo Engenharia da Computação na Universidade Federal do Amazonas (UFAM) sou apaixonado por tecnoliga e Inovação 👨‍💻.
+
+**Hobbs :** Treinar 💪, Games 🎮 , Música 🎸.
+
+
+- ⚙️ Oque eu uso diariamente : `C`,`java`,`html`,`css`,`python`
+- 📹 Outras coisas que eu faço : `roteiro`,`edição`,`apresentação`
+
